@@ -28,6 +28,23 @@
 <h1>About Us</h1>
 </section>
 
+<!---------- about us --------------->
+
+<section class="about-us">
+
+<div class="row">
+  <div class="about-col">
+<h1>Something about the people behind the website</h1>
+<p>This is a description of the owners of this site. They are deeply interested in mathematics and physics.</p>
+</div>
+
+  <div class="about-col">
+<img src="Images/User1.jpg">
+  </div>
+</div>
+
+
+</section>
 
 
 <!-------- footer --------->
